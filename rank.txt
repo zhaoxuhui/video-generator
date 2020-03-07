@@ -1,0 +1,198 @@
+Afghanistan,107,26,af.png,阿富汗
+Iraq,106,28,iq.png,伊拉克
+Syria,105,29,sy.png,叙利亚
+Somalia,104,32,so.png,索马里
+Pakistan,104,32,pk.png,巴基斯坦
+Yemen,103,33,ye.png,也门
+Libya,102,37,ly.png,利比亚
+Palestinian$Territory,101,38,ps.png,巴勒斯坦
+Nepal,101,38,np.png,尼泊尔
+Sudan,100,39,sd.png,苏丹
+North Korea,100,39,kp.png,朝鲜
+Lebanon,99,40,lb.png,黎巴嫩
+Kosovo,99,40,rk.png,科索沃
+Iran,98,41,ir.png,伊朗
+Eritrea,98,41,er.png,厄立特里亚
+Congo$(Dem.Rep.),98,41,cd.png,刚果民主共和国
+Bangladesh,98,41,bd.png,孟加拉
+Sri Lanka,97,42,lk.png,斯里兰卡
+South Sudan,96,43,ss.png,南苏丹
+Ethiopia,96,43,et.png,埃塞俄比亚
+Nigeria,95,46,ni.png,尼日利亚
+Djibouti,95,46,dj.png,吉布提
+Myanmar,94,47,mm.png,缅甸
+Congo(Rep.),94,47,cgr.png,刚果共和国
+Liberia,93,49,lr.png,利比里亚
+Haiti,93,49,ht.png,海地
+Egypt,93,49,eg.png,埃及
+Cameroon,93,49,cm.png,喀麦隆
+Burundi,93,49,bi.png,布隆迪
+Angola,93,49,ao.png,安哥拉
+Laos,92,50,la.png,老挝
+Algeria,92,50,dz.png,阿尔及利亚
+Jordan,91,51,jo.png,约旦
+Central African$Republic,91,51,cf.png,中非
+Turkmenistan,90,52,tm.png,土库曼斯坦
+Guinea-Bissau,89,53,gw.png,几内亚比绍
+Equatorial$Guinea,89,53,gq.png,赤道几内亚
+Comoros Islands,89,53,km.png,科摩罗群岛
+Chad,89,53,td.png,乍得
+Bhutan,89,53,bt.png,不丹
+Vietnam,88,54,vn.png,越南
+Niger,88,54,ng.png,尼日尔
+Mali,88,54,ml.png,马里
+Madagascar,88,54,mg.png,马达加斯加
+Cambodia,88,54,kh.png,柬埔寨
+Togo,87,55,tg.png,多哥
+Guinea,87,55,gn.png,几内亚
+Senegal,86,56,sn.png,塞内加尔
+Gabon,86,56,ga.png,加蓬
+Uzbekistan,85,57,uz.png,乌兹别克斯坦
+Cote d'Ivoire,85,57,ci.png,科特迪瓦
+Tajikistan,84,58,tj.png,塔吉克斯坦
+Mauritania,84,58,mr.png,毛里塔尼亚
+India,84,58,in.png,印度
+Rwanda,83,59,rw.png,卢旺达
+Burkina Faso,83,59,bf.png,布基纳法索
+Sao Tome and$Principe,82,61,st.png,圣多美和普林西比
+Mozambique,82,61,mz.png,莫桑比克
+Mongolia,81,62,mn.png,蒙古
+Benin,81,62,bj.png,贝宁
+Armenia,81,62,am.png,亚美尼亚
+Sierra Leone,80,63,sl.png,塞拉利昂
+Morocco,80,63,ma.png,摩洛哥
+Kyrgyzstan,80,63,kg.png,吉尔吉斯
+Zimbabwe,79,64,zw.png,津巴布韦
+Dominican$Republic,79,64,do.png,多米尼加
+Ghana,78,65,gh.png,加纳
+Cuba,78,65,cu.png,古巴
+Uganda,77,66,ug.png,乌干达
+Cape Verde$Islands,77,66,cv.png,佛得角群岛
+Philippines,76,67,ph.png,菲律宾
+Azerbaijan,76,67,az.png,阿塞拜疆
+Gambia,75,68,gm.png,冈比亚
+Tunisia,74,69,tn.png,突尼斯
+Zambia,73,70,zm.png,赞比亚
+Tanzania,73,70,tz.png,坦桑尼亚
+Kenya,72,71,ke.png,肯尼亚
+Indonesia,72,71,id.png,印度尼西亚
+China,72,71,cn.png,中国
+Malawi,71,72,mw.png,马拉维
+ESwatini,70,73,sz.png,斯威士兰
+Lesotho,69,74,ls.png,莱索托
+Belarus,68,75,by.png,白俄罗斯
+Namibia,67,76,na.png,纳米比亚
+Kazakhstan,67,76,kz.png,哈萨克斯坦
+Saudi Arabia,66,77,sa.png,沙特阿拉伯
+Thailand,65,78,th.png,泰国
+Suriname,65,78,sr.png,苏里南
+Bolivia,65,78,bo.png,玻利维亚
+Oman,64,79,om.png,阿曼
+Bahrain,63,82,bh.png,巴林
+Papua$New Guinea,62,84,pg.png,巴布亚新几内亚
+Botswana,62,84,bw.png,博茨瓦纳
+Maldives,61,85,mv.png,马尔代夫
+Jamaica,61,85,jm.png,牙买加
+Nauru,60,88,nr.png,瑙鲁
+Guyana,60,88,gy.png,圭亚那
+Fiji,60,88,fj.png,斐济
+Ecuador,59,91,ec.png,厄瓜多尔
+Qatar,58,93,qa.png,卡塔尔
+Timor-Leste,57,95,tl.png,东帝汶
+Kuwait,57,95,kw.png,科威特
+South Africa,56,100,za.png,南非
+Belize,56,100,bz.png,伯利兹
+Turkey,55,111,tr.png,土耳其
+Albania,54,114,al.png,阿尔巴尼亚
+Georgia,53,116,ge.png,格鲁吉亚
+Bosnia and$Herzegovina,52,117,ba.png,波斯尼亚和$黑塞哥维那
+Russian$Federation,51,118,ru.png,俄罗斯
+Micronesia,51,118,fm.png,密克罗尼西亚
+Palau Islands,50,119,pw.png,帕劳群岛
+Moldova,49,120,md.png,摩尔多瓦
+Marshall Islands,48,122,mh.png,马绍尔群岛
+Kiribati,48,122,ki.png,基里巴斯
+North$Macedonia,47,123,mk.png,北马其顿
+Montenegro,46,124,me.png,黑山
+Tonga,45,125,to.png,汤加
+Tuvalu,44,127,tv.png,图瓦卢
+Colombia,44,127,co.png,哥伦比亚
+Ukraine,43,128,ua.png,乌克兰
+Nicaragua,43,128,ni.png,尼加拉瓜
+Vanuatu,42,130,vu.png,瓦努阿图
+Solomon Islands,41,131,sb.png,所罗门群岛
+Samoa,41,131,ws.png,萨摩亚
+Venezuela,40,132,ve.png,委内瑞拉
+Guatemala,40,132,gt.png,危地马拉
+Serbia,39,133,rs.png,塞尔维亚
+Honduras,39,133,hn.png,洪都拉斯
+El Salvador,39,133,sv.png,萨尔瓦多
+Peru,38,135,pe.png,秘鲁
+Dominica,37,139,dm.png,多米尼克
+Panama,36,140,pa.png,巴拿马
+Paraguay,35,142,py.png,巴拉圭
+Grenada,35,142,gd.png,格林纳达
+Macao$(SAR China),34,144,mo.png,中华人民共和国$澳门特别行政区
+St. Lucia,33,145,lc.png,圣卢西亚
+St. Vincent and$the Grenadines,32,146,vc.png,圣文森特和$格林纳丁斯
+Mauritius,32,146,mu.png,毛里求斯
+Vatican City,31,149,va.png,梵蒂冈
+Trinidad and$Tobago,31,149,tt.png,特立尼达和多巴哥
+Costa Rica,31,149,cr.png,哥斯达黎加
+Antigua and$Barbuda,30,150,ag.png,安提瓜和巴布达
+Seychelles,29,151,sc.png,塞舌尔
+Uruguay,28,153,uy.png,乌拉圭
+St. Kitts and$Nevis,27,154,kn.png,圣基茨和尼维斯
+Bahamas,27,154,bs.png,巴哈马
+Mexico,26,158,mx.png,墨西哥
+Israel,25,159,il.png,以色列
+Barbados,24,160,bb.png,巴巴多斯
+Brunei,23,166,bn.png,文莱
+Andorra,22,167,ad.png,安道尔
+San Marino,21,168,sm.png,圣马力诺
+Hong Kong$(SAR China),20,169,hk.png,中华人民共和国$香港特别行政区
+Croatia,20,169,hr.png,克罗地亚
+Brazil,19,170,br.png,巴西
+Argentina,19,170,ar.png,阿根廷
+United Arab$Emirates,18,171,ae.png,阿联酋
+Bulgaria,18,171,bg.png,保加利亚
+Romania,17,172,ro.png,罗马尼亚
+Cyprus,16,174,cy.png,塞浦路斯
+Chile,16,174,cl.png,智利
+Monaco,15,175,mc.png,摩纳哥
+Poland,14,176,pl.png,波兰
+Malaysia,13,178,my.png,马来西亚
+Liechtenstein,13,178,li.png,列支敦士登
+Estonia,12,179,ee.png,爱沙尼亚
+Slovenia,11,180,si.png,斯洛文尼亚
+Latvia,11,180,lv.png,拉脱维亚
+Iceland,11,180,is.png,冰岛
+Slovakia,10,181,sk.png,斯洛伐克
+Lithuania,10,181,lt.png,立陶宛
+Hungary,10,181,hu.png,匈牙利
+New Zealand,9,183,nz.png,新西兰
+Malta,9,183,mt.png,马耳他
+Czech Republic,9,183,cz.png,捷克
+Canada,9,183,ca.png,加拿大
+Australia,9,183,au.png,澳大利亚
+United States,8,184,us.png,美国
+United Kingdom,8,184,uk.png,英国
+Norway,8,184,no.png,挪威
+Greece,8,184,gr.png,希腊
+Belgium,8,184,be.png,比利时
+Switzerland,7,185,ch.png,瑞士
+Portugal,7,185,pt.png,葡萄牙
+Netherlands,7,185,nl.png,荷兰
+Ireland,7,185,ie.png,爱尔兰
+Austria,7,185,at.png,奥地利
+Sweden,6,186,se.png,瑞典
+France,6,186,fr.png,法国
+Spain,5,187,es.png,西班牙
+Luxembourg,5,187,lu.png,卢森堡
+Denmark,5,187,dk.png,丹麦
+Italy,4,188,it.png,意大利
+Finland,4,188,fi.png,芬兰
+South Korea,3,189,kr.png,韩国
+Germany,3,189,de.png,德国
+Singapore,2,190,sg.png,新加坡
+Japan,1,191,jp.png,日本
